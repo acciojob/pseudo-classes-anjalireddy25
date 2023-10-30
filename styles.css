@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.main-cont{
+html:root{
 	background-color:rgb(135, 206, 235);
 	padding:10px;
 }
