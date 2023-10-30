@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.cont{
+.main-cont{
 	background-color:rgb(135, 206, 235);
 	padding:10px;
 }
@@ -11,7 +11,7 @@ div p:nth-child(2){
 	color:black;
 }
 div p:last-child{
-	color:red;
+	color:rgb(255,0,0);
 }
 ul{
 	background-color:gray;
